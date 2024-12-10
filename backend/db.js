@@ -1,4 +1,4 @@
-import mongoose from 'mongoose';
+const mongoose = require('mongoose');
 
 mongoose.connect("mongodb+srv://sameerchoubey:GwOXx8qb2NYUGTHP@cluster0.gcamc.mongodb.net/moneyzi");
 
